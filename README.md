@@ -1,4 +1,8 @@
 # Pathfinding_Visualization
+
+Finds the shortest path between two nodes.
+The light blue path is the shortest path.
+The black nodes are barriers.
 Created in Python uses the Pygame module
 Inspiration of this idea from Clement Mihailescu.
 Youtuber TechWithTim was a great helping with the implentation of the algorithm and using pygame.
